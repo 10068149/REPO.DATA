@@ -11,8 +11,17 @@
 // all includes here
 #include <iostream>
 
-
 using namespace std;
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -51,10 +60,30 @@ public:
     
 private:
     
-    //    Players one;
-    //    Players two;
+    //Players
+        Players one;
+        Players two;
+    
     
 };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -80,4 +109,47 @@ int main() {
     
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // method implementations here
+
+
+
+
+
+
+
+
+
+
