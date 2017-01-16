@@ -36,7 +36,6 @@ public:
 private:
     //code here...
     
-    
 };
 
 //1. class Game. this will be our main entity. this is what we are building...
@@ -47,15 +46,12 @@ private:
 class Player {
     
 public:
-
     
 private:
     
     string name;
     int time;
-    
 
-    
 };
 
 
@@ -71,7 +67,6 @@ private:
     //Players
     Player one;
     Player two;
-    
     
 };
 
