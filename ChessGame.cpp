@@ -60,6 +60,10 @@ class Game {
     
 public:
     //code here...
+    void run(){
+        //code ...
+    };
+    
     
 private:
     //code here...
@@ -101,13 +105,10 @@ private:
 
 
 int main() {
+
     
+    Game One;
     
-    
-    cout
-    << endl
-    << "Program ended with exit code: Game Over man!! game over!! "
-    << endl << endl;
     return 0;
     
 }
