@@ -41,15 +41,6 @@ private:
 
 //1. class Game. this will be our main entity. this is what we are building...
 
-class Game {
-    
-public:
-    //code here...
-    
-private:
-    //code here...
-    
-};
 
 //2. we need players ­ define class player...
 
@@ -69,13 +60,13 @@ private:
 
 
 
-
-class Players {
+class Game {
     
 public:
-    
+    //code here...
     
 private:
+    //code here...
     
     //Players
     Player one;
