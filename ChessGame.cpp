@@ -19,6 +19,7 @@ int main() {
     
     updater.start();
 
+    one.run();
     //more code here ...
     
     updater.end();
