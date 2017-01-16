@@ -53,6 +53,26 @@ private:
 
 //2. we need players ­ define class player...
 
+class Player {
+    
+public:
+
+    
+private:
+    
+    string name;
+    int time;
+    
+
+    
+};
+
+
+
+
+
+
+
 class Players {
     
 public:
@@ -61,8 +81,8 @@ public:
 private:
     
     //Players
-        Players one;
-        Players two;
+    Player one;
+    Player two;
     
     
 };
